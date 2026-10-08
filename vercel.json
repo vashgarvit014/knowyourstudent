@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/Student360/index.html" },
+    { "source": "/index.html", "destination": "/Student360/index.html" },
+    { "source": "/data/:path*", "destination": "/Student360/data/:path*" }
+  ]
+}
