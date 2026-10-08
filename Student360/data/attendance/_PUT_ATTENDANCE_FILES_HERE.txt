@@ -1,0 +1,1 @@
+Put the attendance Excel files (Digital Campus 'Complete Attendance Details' or HOD attendance reports) in this folder, then click 'Update data' in index.html.

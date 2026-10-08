@@ -1,0 +1,1 @@
+Put the UG Degree Database Excel files (one per batch) in this folder, then click 'Update data' in index.html.
